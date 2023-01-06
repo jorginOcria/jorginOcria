@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jorge 👋
 
 - 🔭 Hoje sou analista e desenvolvedor de aplicativos para dispositivos móveis.
-- 🌱 Fazendo Pós graduação em Desenvolvimento de aplicativos móveis.
+- 🌱 Pós graduação em Desenvolvimento de aplicativos móveis.
 
 <div align="center">
   <a href="https://github.com/jorginOcria">
